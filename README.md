@@ -1,7 +1,7 @@
 # Legacy-Guilde
 
 ## Vesion 1.4
-Changed Informations
+Changed Info
 
 ## Version 1.3
 added title in about page
