@@ -1,5 +1,8 @@
 # Legacy-Guilde
 
+## Version 1.5
+Added Favicons
+
 ## Vesion 1.4
 Changed Info
 
