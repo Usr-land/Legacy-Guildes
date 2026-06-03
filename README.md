@@ -15,4 +15,5 @@ added new progress
 ## Version 1.1
 Completed the coming soon part
 
-
+## Version 1.0
+initial release
